@@ -56,7 +56,7 @@ export function App() {
             <div>
               <Logo
                 image={imglogo}
-                title={"FNR NEW MOVIE"}
+                title={"YOKU-SAMA MOVIE NEWS"}
                 subtitle={"Find movie to Watch"}
               />{" "}
             </div>
