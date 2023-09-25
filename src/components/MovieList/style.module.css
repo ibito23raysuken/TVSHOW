@@ -1,0 +1,14 @@
+.recommendation {
+  display: flex;
+  margin-right: 20px;
+  width: 100-20vw;
+  overflow-x: hidden;
+}
+.recommendation:hover {
+  overflow-x: scroll;
+}
+.title {
+  font-family: Roboto;
+  font-weight: 60px;
+  font-size: 20px;
+}

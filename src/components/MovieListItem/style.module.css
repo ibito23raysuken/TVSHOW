@@ -1,0 +1,20 @@
+.container {
+  border-radius: 40px;
+  margin-right: 30px;
+  position: relative;
+}
+.title {
+  margin-top: -30px;
+  position: absolute;
+  height: 30px;
+  width: 300px;
+  padding-left: 20px;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.img {
+  border-radius: 10px;
+}
